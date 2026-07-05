@@ -38,3 +38,4 @@ Prompt 3 - Uma imagem de uma mulher madura com cabelos curtos louro escuro acize
 descontraída, mas sóbria, com um microfone na mão, está num escritório cheio de livros, camera settings f/ 8, 1/ 100s, ISO 100, complex lighting, backlighting,
 dynamic cinematic lighting, global illumination, ultra-high resolution,realistic filter of real colors, photo processing in 16K, cinematic, photorealistic, hyperrealistic ,hyper realistic, cinematic light, ultra realistic photography, ultra detailed --ar 1:1 --v 5.2
 
+https://app.notion.com/p/PAS-Podcast-AI-Studio-b25527e0a59082dc938d81f11d554ac3?source=copy_link
